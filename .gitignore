@@ -25,6 +25,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+starting_tensors/aclImdb/
+starting_tensors/aclImdb_v1.tar.gz
+starting_tensors/dnn_model.keras
 
 # PyInstaller
 #  Usually these files are written by a python script from a template

@@ -2,3 +2,6 @@ matplotlib
 tensorflow
 numpy
 ipykernel
+seaborn
+tensorflow-hub
+tensorflow-datasets
